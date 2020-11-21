@@ -1,0 +1,29 @@
+{
+    "name": "react-validation-collection",
+    "version": "1.0.0",
+    "description": "Custom form validation functions in React.",
+    "main": "index.js",
+    "scripts": {
+        "webpack": "webpack -p"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://yasgo@github.com/yasgo/react-validation-collection.git"
+    },
+    "keywords": [
+        "react",
+        "validation"
+    ],
+    "devDependencies": {
+        "@babel/core": "^7.12.7",
+        "@babel/preset-env": "^7.12.7",
+        "babel-loader": "^8.2.1",
+        "webpack": "^2.4.1"
+    },
+    "author": "Yasin Burak Kalkan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yasgo/react-validation-collection/issues"
+    },
+    "homepage": "https://github.com/yasgo/react-validation-collection#readme"
+}
